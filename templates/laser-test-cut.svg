@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.2998753mm"
+   height="6.299871mm"
+   viewBox="0 0 6.2998753 6.299871"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="laser-test-cut.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="2.017239"
+     inkscape:cy="10.150799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.0098828,-10.326753)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.0254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5.0642578,10.339453 h 6.1911302 c 0.02309,0 0.04167,0.02401 0.04167,0.05383 v 6.166811 c 0,0.02982 -0.01859,0.05383 -0.04167,0.05383 H 5.0642578 c -0.023088,0 -0.041675,-0.02401 -0.041675,-0.05383 v -6.166811 c 0,-0.02982 0.018587,-0.05383 0.041675,-0.05383 z"
+       id="rect815"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g840">
+      <g
+         id="g845"
+         transform="matrix(1.0263315,0,0,1.0263315,-0.21486021,-0.35486194)">
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000500;stroke-width:0.02474834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 10.648224,13.464993 -0.8313012,0.688984 0.1107344,1.07401 -1.0750032,-0.100628 -0.6811385,0.83774 -0.6889762,-0.831306 -1.0740101,0.110735 0.1006282,-1.075003 -0.8377408,-0.681139 0.8313,-0.688984 -0.1107355,-1.074009 1.0750042,0.100628 0.681139,-0.837742 0.6889767,0.831307 1.0740107,-0.110736 -0.100629,1.075004 z"
+           id="path825"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07619999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 8.2325737,13.059081 A 0.59058779,0.59058779 0 0 1 7.6419859,13.649669 0.59058779,0.59058779 0 0 1 7.0513981,13.059081 0.59058779,0.59058779 0 0 1 7.6419859,12.468493 0.59058779,0.59058779 0 0 1 8.2325737,13.059081 Z"
+           id="path829"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07424502;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:transform-center-x="-0.004556212"
+           inkscape:transform-center-y="-0.15869144"
+           d="M 9.3878426,14.663151 8.2610595,14.678935 8.8107823,13.69522 Z"
+           id="path835"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
