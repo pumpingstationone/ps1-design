@@ -127,6 +127,14 @@ hr.collapse-margin {
   display:inline;
 }
 
+/* Utility class for centering */
+.align-center {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
 /* A utility class for horizontal scrolling when content is too wide */
 .side-scroll {
   white-space: nowrap;
