@@ -1,5 +1,7 @@
 # PS1 Design
 
+[HTML Styleguide](https://pumpingstationone.github.io/ps1-design/) 
+
 ## Goals:
 - Provide some additional version control beyond the [PS1 Wiki](https://wiki.pumpingstationone.org) to make it easier to track changes and collaborate.
 - Design files for internal PS1 usage (templates for creating signs, styleguide etc)
