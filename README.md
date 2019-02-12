@@ -29,3 +29,4 @@ Examples of what might be in here:
 
 ## QR code Generator
 https://www.the-qrcode-generator.com/
+
