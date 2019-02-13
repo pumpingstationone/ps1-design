@@ -13,7 +13,7 @@ At the moment, I am just doing some digital inventory by searching the Wiki & Go
 Examples of what might be in here:
 - PS1 Logo
 - PS1 Style Guide (suggested colors, typography, formatting etc)
-- Template for making signs
+- Template for making signs, parking permits, etc
 - Various vector files for CNC machines (test files, starter templates, design examples)
 - General code examples/snippets for building projects
 - Documentation that could benefit from version control (supplemental to wiki docs)
